@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @dylansevans
-- 👀 I’m interested in green plants that have 7 leaves
-- 🌱 I’m currently learning how to use the <html> tag
-- 📫 How to reach me +1(480)545-5612 ( hmu ;) )
+
+I am an undergraduate at Brigham Young University, and I have a great drive to implement my mathemmatics into whatever code I can, whether that is visualization, simulation, or optimization.
+
+I have a great drive to make things faster by the slightest or automate tasks I find the slightest bit tedious.
+
+email: dstevans2356@gmail.com
+phone: (480)545-5612.
