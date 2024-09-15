@@ -1,4 +1,4 @@
-👋 Hi, I’m @dylansevans or if we're familiar Dylan Evans
+👋 Hi, I’m @dylansevans or if we're familiar, Dylan Evans
 
 I am an undergraduate at Brigham Young University, and I have a great drive to implement my mathemmatics into whatever code I can, whether that is visualization, simulation, or optimization.
 
